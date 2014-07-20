@@ -1,0 +1,20 @@
+{
+  "name": "myconomy-bem-landing",
+  "version": "0.0.0",
+  "description": "shiny new landing",
+  "scripts": {
+      "build": "./build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MirtlBu/myconomy-bem-landing.git"
+  },
+  "author": "MirtlBu",
+  "bugs": {
+    "url": "https://github.com/MirtlBu/myconomy-bem-landing/issues"
+  },
+  "homepage": "https://github.com/MirtlBu/myconomy-bem-landing",
+  "devDependencies": {
+    "bemer": "~0.3.1"
+  }
+}
